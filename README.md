@@ -1,5 +1,5 @@
 Employees Insights-Dashboard-MySQL-PowerBI
-![image](![image](https://github.com/tanishkphore/Employees-Insights-Dashboard/assets/121425812/eff6ad28-a5ba-46d3-b07b-114ccbcfb89f)
+![image](![image](https://github-production-user-asset-6210df.s3.amazonaws.com/121425812/345683857-27b0b4f2-5639-42b1-9eab-e035b8c78fa1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240704T030808Z&X-Amz-Expires=300&X-Amz-Signature=fcffc12bc07f130e9f7e1b611ab2ac5825dff7a7c8e3caba8386cecac8ebe309&X-Amz-SignedHeaders=host&actor_id=121425812&key_id=0&repo_id=823087292)
 )
 
 ![image](![image](https://github.com/tanishkphore/Employees-Insights-Dashboard/assets/121425812/27b0b4f2-5639-42b1-9eab-e035b8c78fa1)
